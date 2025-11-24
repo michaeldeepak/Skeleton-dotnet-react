@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCoreWebApplication1", "ASP.NETCoreWebApplication1\ASP.NETCoreWebApplication1.csproj", "{41D3C08A-345B-4180-BC8A-A72A49BFD845}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactDotNetExample", "ReactDotNetExample\ReactDotNetExample.csproj", "{41D3C08A-345B-4180-BC8A-A72A49BFD845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
